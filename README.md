@@ -1,11 +1,11 @@
-# react-alert-template-oldschool-dark
+# react-toast-template-dark
 
-> Alert template for [react-alert](https://github.com/schiehll/react-alert) that replicate the same look of the dark theme in old versions of the lib
+> Alert dark template for [react-toast](https://github.com/jacobsowles/react-toast).
 
 [![version](https://img.shields.io/npm/v/react-alert-template-oldschool-dark.svg?style=flat-square)](http://npm.im/react-alert-template-oldschool-dark)
 
 ## Installation
 
 ```bash
-$ npm install --save react-alert-template-oldschool-dark
+$ npm install --save react-toast-template-dark
 ```
